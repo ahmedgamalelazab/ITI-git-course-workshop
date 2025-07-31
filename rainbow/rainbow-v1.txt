@@ -5,3 +5,5 @@ Colors will be added as following
 1. red
 2. blue
 3. yellw
+4. indiago
+5. grey
