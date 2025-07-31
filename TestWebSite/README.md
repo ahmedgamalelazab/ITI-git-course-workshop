@@ -3,7 +3,8 @@
 # E commerce
 
 show how to deal with github
-
+Edited by Mariam Mohamed
+=======
 Edited by Gehad Maghawry
  
 Names of Team  
@@ -12,6 +13,4 @@ Names of Team
 - Omnia Khalil
 -Mariam Mohamed 
 -Alyaa Ahmed 
-- Hanaa 
-
----------
+- Hanaa
