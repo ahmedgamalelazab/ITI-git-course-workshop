@@ -1,5 +1,9 @@
 ﻿internal class Program
 {
+	public int  static Number (int num)
+     { 
+		 return num;
+	 }
 	public class FractionNumber
 	{
 		int numerator;
