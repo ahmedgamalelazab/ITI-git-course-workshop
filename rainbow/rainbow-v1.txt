@@ -1,0 +1,7 @@
+## This is rainbow feature -v1
+
+Colors will be added as following
+
+1. red
+2. blue
+3. yellw
