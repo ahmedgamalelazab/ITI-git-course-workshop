@@ -4,6 +4,7 @@
 h1 {
     color: red;
 }
+
 h2 {
     color: aquamarine;
 }
@@ -13,10 +14,21 @@ h4 {
     color: aqua;
 }
 
-=======
+<<<<<<< HEAD
 
 /* Abdallah Mahmoud Wahbah*/
 h1 {
     color: orange;
     >>>>>>>2e8950e644749edc5236059a4eff45ae84222175
-}
+
+    /* Abdallah Mahmoud Wahbah*/
+    h1 {
+        color: orange;
+        >>>>>>>2e8950e644749edc5236059a4eff45ae84222175
+    }
+
+    /* Ibrahim Mohamed */
+    h5 {
+        color: green;
+        >>>>>>>93a68bd8ee6833f48a559f1e80c6518f336f4cdc
+    }
